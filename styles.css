@@ -2,9 +2,6 @@
   font-family: Arial, Verdana, sans-serif;
   color: #225555;
   text-align: center;
-}
-
-form {
-	background-color: powderblue
-	margin-left: 40px;
+  background-image: url('../bg.jpg');
+  background-size: cover;
 }
