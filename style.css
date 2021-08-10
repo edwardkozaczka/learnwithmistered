@@ -3,6 +3,7 @@ html {
 	padding: 0px;
 	background: #000000;
 	height: 750px;
+	overflow: hidden;
 }
 
 body {
@@ -12,6 +13,7 @@ body {
 	margin: 10px auto;
 	color: #000000;
 	background: linear-gradient(to bottom, rgba(212,228,239,1) 0%, rgba(134,174,204,1) 100%);
+	overflow: hidden;
 }
 
 #form-template .fieldset-border {
